@@ -5,6 +5,10 @@
 This project predicts the risk of cervical cancer using supervised machine learning techniques.  
 An XGBoost ensemble model is implemented for high accuracy, with full preprocessing and feature engineering.
 
+#Cervical Cancer (Risk Factors) - UCI Machine Learning Repository 
+Dataset link:
+https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
+
 ## 🧠 Key Features
 - Data preprocessing (handling missing values, encoding, scaling)
 - Exploratory Data Analysis (EDA)
